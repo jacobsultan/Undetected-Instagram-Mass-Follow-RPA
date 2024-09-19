@@ -2,3 +2,5 @@
 /myenv
 chromedriver
 cookies.json
+.DS_Store
+.env
